@@ -1,0 +1,10 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 7e6ffba0bb134c6eb7935e70b7a95733 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot top_level_tb_behav xil_defaultlib.top_level_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3283] element index 9 into 's0' is out of bounds [C:/Users/Nana/6111Projects/Param_barrel_shifter/Param_barrel_shifter.srcs/sources_1/new/param_barrel_shifter.sv:11]
+WARNING: [VRFC 10-3283] element index 9 into 's1' is out of bounds [C:/Users/Nana/6111Projects/Param_barrel_shifter/Param_barrel_shifter.srcs/sources_1/new/param_barrel_shifter.sv:12]
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
